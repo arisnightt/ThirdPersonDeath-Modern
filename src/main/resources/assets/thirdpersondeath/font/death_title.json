@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "thirdpersondeath:minecraft-ten.ttf",
+      "shift": [0, 0],
+      "size": 12,
+      "oversample": 2.0
+    }
+  ]
+}
